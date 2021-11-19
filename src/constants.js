@@ -1,0 +1,1 @@
+export const FirestoreDB_CollectionName = 'images'
